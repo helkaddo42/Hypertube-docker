@@ -1,0 +1,21 @@
+  /* Google font */
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+
+ /* HEADER  */
+header{
+   
+    height: 50px;
+    background-color: black ;
+
+}
+.header_title h2{
+    display: flex;
+    justify-content: center;
+    flex-basis: 80px;
+    color: white;
+    font-family: 'Lexend Peta', sans-serif;
+}
+.header_title a:hover,
+.header_title a:active{
+    text-decoration: none;
+}
